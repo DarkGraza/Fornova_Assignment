@@ -3,4 +3,4 @@
 
 3) FOr Q2, Pulled out the room name("the key for the value of cheapest price") inside the previous loop only and fetched the guests key value.
 
-4) For Q3, again loaded json object within the taxes to parse easily and added both price and sum of both taxes.
+4) For Q3, again loaded json object within the "taxes" key to parse easily and added both price and sum of both taxes.
